@@ -1,6 +1,8 @@
-## Hi there 👋
+## HELLOOOO👋
 
-learning git
+- Looking for project ideas
+  
+- Contact me on arktic@skiff.com
 <!--
 **Arktic-py/Arktic-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
